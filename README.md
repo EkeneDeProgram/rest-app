@@ -36,7 +36,7 @@ Before you start, make sure you have the following installed on your machine:
 1. Clone the Repository
 First, clone the project repository to your local machine.
 ```bash
-git clone https://github.com/EkeneDeProgram/REST-Application.git
+git clone https://github.com/EkeneDeProgram/rest-app.git
 cd your-repo
 ```
 2.  Install Dependencies
